@@ -1,4 +1,4 @@
-# 📰 Earthquaker
+# 📰 Scraperly
 
 A sleek, terminal-style Python news aggregator with GUI that scrapes headlines from major international news websites, groups them by importance, and lets you export the results to an Excel file.
 
@@ -26,7 +26,7 @@ A sleek, terminal-style Python news aggregator with GUI that scrapes headlines f
 
 ```
 +---------------------------------------------------------------+
-| Earthquaker News 🔥                                           |
+| Scraperly News 🔥                                           |
 | Grouped by Importance Level                                  |
 +-----------------+---------------------------------------------+
 | Source          | Headline                                    |
